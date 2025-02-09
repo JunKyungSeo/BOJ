@@ -4,6 +4,7 @@
     <h3> This is an auto push repository for Baekjoon Online Judge created with [BaekjoonHub](https://github.com/BaekjoonHub/BaekjoonHub). </h3>
   </head>
   <body>
+    <h1> BTC (BaekTrackingClub) Study Record </h1>
     <ul> <h2> Week1 250203 - 250208 </h2>
     <h3> 18110 2108 1874 4949 1007 1016 </h3>
     </ul>
